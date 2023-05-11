@@ -1,7 +1,11 @@
 # django-todo
-A simple todo app built with django
+Building CI / CD Pipeline using Jenkins and deploy django-todo in AWS Cloud
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+# Goals
+CI/CD Pipelines will help you learn
+server automation, continuous integration, building pipelines, configuration of tools, automated
+testing, code quality improvement, and distributed systems in Jenkins through intensive, handson practical assignments.
+
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
@@ -35,4 +39,4 @@ $ python manage.py runserver
 
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
-Cheers and Happy Coding :)
+
